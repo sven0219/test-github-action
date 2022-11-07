@@ -1,5 +1,5 @@
 # Introduction
-A repo for stduy github action.
+A repo for test github action.
 
 
 Doc: [github action](https://docs.github.com/en/actions/quickstart)
